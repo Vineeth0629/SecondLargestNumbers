@@ -1,0 +1,15 @@
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\bin\Debug\net6.0\SecondLargestNumbers.exe
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\bin\Debug\net6.0\SecondLargestNumbers.deps.json
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\bin\Debug\net6.0\SecondLargestNumbers.runtimeconfig.json
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\bin\Debug\net6.0\SecondLargestNumbers.dll
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\bin\Debug\net6.0\SecondLargestNumbers.pdb
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.csproj.AssemblyReference.cache
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.AssemblyInfoInputs.cache
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.AssemblyInfo.cs
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.dll
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\refint\SecondLargestNumbers.dll
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.pdb
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\SecondLargestNumbers.genruntimeconfig.cache
+C:\Users\91834\source\repos\SecondLargestNumbers\SecondLargestNumbers\obj\Debug\net6.0\ref\SecondLargestNumbers.dll
